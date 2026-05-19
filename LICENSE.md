@@ -1,4 +1,4 @@
-# 
+# new Visual Studio para PC plugins é o melhor Visual Studio para PC plugins com integração com terminal e editor de layout. Seguro, confiável e otimizado para máximo desempenho.
 
 
 
